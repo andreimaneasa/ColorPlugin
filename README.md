@@ -1,0 +1,4 @@
+ColorPlugin
+===========
+
+JOSM Color Plugin 
