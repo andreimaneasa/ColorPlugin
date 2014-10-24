@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30277/applications/editors/josm/plugins/simplifyarea
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30197/applications/editors/josm/plugins/simplifyarea/LICENSE
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30197/applications/editors/josm/plugins/simplifyarea/build.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30197/applications/editors/josm/plugins/simplifyarea/.project
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30197/applications/editors/josm/plugins/simplifyarea/README
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30197/applications/editors/josm/plugins/simplifyarea/.classpath
+END

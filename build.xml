@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="ColorPlugin" default="dist" basedir=".">
+    <!-- enter the SVN commit message -->
+    <property name="commit.message" value="Initial commit"/>
+    <!-- enter the *lowest* JOSM version this plugin is currently compatible with -->
+    <property name="plugin.main.version" value="1111"/>
+   	
+    <!-- Configure these properties (replace "..." accordingly).
+         See http://josm.openstreetmap.de/wiki/DevelopersGuide/DevelopingPlugins
+    -->
+    <property name="plugin.author" value="Andrei Maneasa"/>
+    <property name="plugin.class" value="andrei.josm.plugin.color.ColorPlugin"/>
+    <property name="plugin.description" value="Color Plugin provide functionality for Josm users who want to put 'color' attribute for roof and walls of the buildings "/>
+    <property name="plugin.icon" value="images/preferences/Color.png"/>
+
+    <!-- ** include targets that all plugins have in common ** -->
+    <import file="../build-common.xml"/>                
+                
+</project>
