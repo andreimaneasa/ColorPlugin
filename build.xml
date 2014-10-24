@@ -12,7 +12,8 @@
     <property name="plugin.class" value="andrei.josm.plugin.color.ColorPlugin"/>
     <property name="plugin.description" value="Color Plugin provide functionality for Josm users who want to put 'color' attribute for roof and walls of the buildings "/>
     <property name="plugin.icon" value="images/preferences/Color.png"/>
-
+	 <property name="plugin.link" value="https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Color_Plugin"/>
+	
     <!-- ** include targets that all plugins have in common ** -->
     <import file="../build-common.xml"/>                
                 
